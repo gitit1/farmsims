@@ -1,0 +1,41 @@
+{
+  "actions": [
+    {
+      "id": "rest",
+      "label": "Rest",
+      "durationMinutes": 30,
+      "needsDelta": {
+        "energy": 15,
+        "hunger": -3,
+        "hygiene": -2
+      }
+    },
+    {
+      "id": "snack",
+      "label": "Snack",
+      "durationMinutes": 15,
+      "needsDelta": {
+        "hunger": 10,
+        "energy": -1
+      }
+    },
+    {
+      "id": "wash",
+      "label": "Wash",
+      "durationMinutes": 20,
+      "needsDelta": {
+        "hygiene": 20,
+        "fun": -1
+      }
+    }
+  ],
+  "hotkeys": {
+    "Digit1": "rest",
+    "Numpad1": "rest",
+    "Digit2": "snack",
+    "Numpad2": "snack",
+    "Digit3": "wash",
+    "Numpad3": "wash"
+  },
+  "buttons": ["rest", "snack", "wash"]
+}

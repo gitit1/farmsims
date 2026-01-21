@@ -1,0 +1,23 @@
+{
+  "tile.farm.tilled": "/assets/tiles/farm_tilled.png",
+  "tile.farm.watered_overlay": "/assets/tiles/farm_watered_overlay.png",
+
+  "tile.grass": "/assets/tiles/grass.png",
+  "tile.grass_a": "/assets/tiles/grass_a.png",
+  "tile.grass_b": "/assets/tiles/grass_b.png",
+  "tile.grass_c": "/assets/tiles/grass_c.png",
+
+  "tile.path": "/assets/tiles/path.png",
+  "tile.shop.floor": "/assets/tiles/shop_floor.png",
+  "tile.soil": "/assets/tiles/soil.png",
+  "tile.water": "/assets/tiles/water.png",
+
+  "tile.trans.grass_to_path_edge": "/assets/tiles/trans_grass_to_path_edge.png",
+  "tile.trans.grass_to_soil_edge": "/assets/tiles/trans_grass_to_soil_edge.png",
+  "tile.trans.soil_edge": "/assets/tiles/trans_soil_edge.png",
+  "tile.trans.path_corner": "/assets/tiles/trans_path_corner.png",
+
+  "prop.shopkeeper": "/assets/characters/shopkeeper.png",
+  "char.player.idle": "/assets/characters/player_idle.png",
+  "crop.carrot.stage1": "/assets/crops/carrot_stage1.png"
+}

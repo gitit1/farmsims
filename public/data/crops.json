@@ -1,0 +1,19 @@
+{
+  "crops": [
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "growthMinutes": 240
+    },
+    {
+      "id": "potato",
+      "name": "Potato",
+      "growthMinutes": 360
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry",
+      "growthMinutes": 480
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "carrot_seed",
+      "name": "Carrot Seeds",
+      "description": "Quick-growing roots. Reliable starter crop.",
+      "category": "Seed",
+      "priceBuy": 15,
+      "priceSell": 6,
+      "iconLabel": "C",
+      "iconColor": "#e58b4a"
+    },
+    {
+      "id": "potato_seed",
+      "name": "Potato Seeds",
+      "description": "Sturdy sprouts that love steady watering.",
+      "category": "Seed",
+      "priceBuy": 20,
+      "priceSell": 8,
+      "iconLabel": "P",
+      "iconColor": "#c29a6b"
+    },
+    {
+      "id": "strawberry_seed",
+      "name": "Strawberry Seeds",
+      "description": "Sweet berries with a slower grow cycle.",
+      "category": "Seed",
+      "priceBuy": 30,
+      "priceSell": 12,
+      "iconLabel": "S",
+      "iconColor": "#de5e7d"
+    },
+    {
+      "id": "gift_trinket",
+      "name": "Gift Trinket",
+      "description": "A small charm to brighten someone's day.",
+      "category": "Gift",
+      "priceBuy": 45,
+      "priceSell": 20,
+      "iconLabel": "G",
+      "iconColor": "#6a9ac7"
+    }
+  ]
+}
